@@ -22,3 +22,5 @@ IoT-based smart plug project for controlling electronic devices remotely.
 - Turn devices ON/OFF
 - Monitor connected devices
 - Smart automation system
+
+  reno
